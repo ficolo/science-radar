@@ -1,0 +1,25 @@
+version: '3.3'
+services:
+  science-radar:
+      build: .
+      ports:
+      - "8888:8888"
+      volumes:
+        - .:/home/sciradar/
+      networks:
+        - app-network
+  mongodb:
+    container_name: mongodb
+    image: mongo
+    networks:
+      - app-network
+    volumes:
+      - ./data/mongo-db:/data/db
+    ports:
+      - "27017:27017"
+volumes:
+  data:
+
+networks:
+  app-network:
+    driver: bridge
