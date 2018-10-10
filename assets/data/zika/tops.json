@@ -1,0 +1,78 @@
+{
+  "topPapers": [
+    {
+      "id": "19516034",
+      "source": "MED",
+      "title": "Zika virus outbreak on Yap Island, Federated States of Micronesia.",
+      "year": 2009,
+      "authors": "Duffy MR, Chen TH, Hancock WT, Powers AM, Kool JL, Lanciotti RS, Pretrick M, Marfel M, Holzbauer S, Dubray C, Guillaumot L, Griggs A, Bel M, Lambert AJ, Laven J, Kosoy O, Panella A, Biggerstaff BJ, Fischer M, Hayes EB.",
+      "citationsCount": 541.0
+    },
+    {
+      "id": "12995440",
+      "source": "MED",
+      "title": "Zika virus.  I.  Isolations and serological specificity.",
+      "year": 1952,
+      "authors": "DICK GW, KITCHEN SF, HADDOW AJ.",
+      "citationsCount": 451.0
+    },
+    {
+      "id": "18680646",
+      "source": "MED",
+      "title": "Genetic and serologic properties of Zika virus associated with an epidemic, Yap State, Micronesia, 2007.",
+      "year": 2008,
+      "authors": "Lanciotti RS, Kosoy OL, Laven JJ, Velez JO, Lambert AJ, Johnson AJ, Stanfield SM, Duffy MR.",
+      "citationsCount": 432.0
+    },
+    {
+      "id": "26862926",
+      "source": "MED",
+      "title": "Zika Virus Associated with Microcephaly.",
+      "year": 2016,
+      "authors": "Mlakar J, Korva M, Tul N, Popovic M, Poljsak-Prijatelj M, Mraz J, Kolenc M, Resman Rus K, Vesnaver Vipotnik T, Fabjan Vodusek V, Vizjak A, Pizem J, Petrovec M, Avsic Zupanc T.",
+      "citationsCount": 390.0
+    },
+    {
+      "id": "27733281",
+      "source": "MED",
+      "title": "Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980-2015: a systematic analysis for the Global Burden of Disease Study 2015.",
+      "year": 2016,
+      "authors": "I",
+      "citationsCount": 387.0
+    }
+  ],
+  "topAuthors": [
+    { "name": "SCOTT C WEAVER", "paperCount": 36.0 },
+    { "name": "MICHAEL S DIAMOND", "paperCount": 32.0 },
+    { "name": "NIKOS VASILAKIS", "paperCount": 26.0 },
+    { "name": "DIDIER MUSSO", "paperCount": 25.0 },
+    { "name": "CHENG-FENG QIN", "paperCount": 23.0 }
+  ],
+  "topTerms": [
+    {
+      "label": "disease",
+      "link": "http://purl.obolibrary.org/obo/DOID_4",
+      "usedByCount": 2179.0
+    },
+    {
+      "label": "viral infectious disease",
+      "link": "http://purl.obolibrary.org/obo/DOID_934",
+      "usedByCount": 1331.0
+    },
+    {
+      "label": "syndrome",
+      "link": "http://purl.obolibrary.org/obo/DOID_225",
+      "usedByCount": 1158.0
+    },
+    {
+      "label": "chikungunya",
+      "link": "http://purl.obolibrary.org/obo/DOID_0050012",
+      "usedByCount": 963.0
+    },
+    {
+      "label": "microcephaly",
+      "link": "http://purl.obolibrary.org/obo/DOID_10907",
+      "usedByCount": 873.0
+    }
+  ]
+}
