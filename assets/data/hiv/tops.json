@@ -1,0 +1,78 @@
+{
+  "topPapers": [
+    {
+      "id": "18200009",
+      "source": "MED",
+      "title": "Tetherin inhibits retrovirus release and is antagonized by HIV-1 Vpu.",
+      "year": 2008,
+      "authors": "Neil SJ, Zang T, Bieniasz PD.",
+      "citationsCount": 152.0
+    },
+    {
+      "id": "19843557",
+      "source": "MED",
+      "title": "Vaccination with ALVAC and AIDSVAX to prevent HIV-1 infection in Thailand.",
+      "year": 2009,
+      "authors": "Rerks-Ngarm S, Pitisuttithum P, Nitayaphan S, Kaewkungwal J, Chiu J, Paris R, Premsri N, Namwat C, de Souza M, Adams E, Benenson M, Gurunathan S, Tartaglia J, McNeil JG, Francis DP, Stablein D, Birx DL, Chunsuttiwat S, Khamboonruang C, Thongcharoen P, Robb ML, Michael NL, Kunasol P, Kim JH; MOPH-TAVEG Investigators, Rerks-Ngarm S, Chunsuttiwat S, Premsri N, Namwat C, Kunasol P, Thongcharoen P, Khamboonruang C, Pitisuttithum P, Bussaratid V, Maek-a-nantawat W, Dhitavat J, Suntharasamai P, Pungpak S, Vanijanonta S, Kaewkunwal J, Khamsiriwatchara A, Jarujareet P, Nitayaphan S, Easmila C, Tabprasit S, Chiu J, Paris R, Benenson M, Brown A, Morgan P, de Souza M, Trichavaroj R, Schuetz A, Thaitawat N, Gurunathan S, Tartaglia J, McNeil JG, Harkness R, Meric C, El Habib R, Baglyos L, Francis D, Lee C, Adams E, Kim JH, Robb ML, Michael NL, Milazzo M, Bolen A, Wessner B, Kim SR, Marovich M, Currier J, Birx DL, Stablein D, Germanson T, Dally L, Wiley R, Excler JL, Berenberg J.",
+      "citationsCount": 138.0
+    },
+    {
+      "id": "18342597",
+      "source": "MED",
+      "title": "The interferon-induced protein BST-2 restricts HIV-1 release and is downregulated from the cell surface by the viral Vpu protein.",
+      "year": 2008,
+      "authors": "Van Damme N, Goff D, Katsura C, Jorgenson RL, Mitchell R, Johnson MC, Stephens EB, Guatelli J.",
+      "citationsCount": 117.0
+    },
+    {
+      "id": "12167863",
+      "source": "MED",
+      "title": "Isolation of a human gene that inhibits HIV-1 infection and is suppressed by the viral Vif protein.",
+      "year": 2002,
+      "authors": "Sheehy AM, Gaddis NC, Choi JD, Malim MH.",
+      "citationsCount": 104.0
+    },
+    {
+      "id": "18187620",
+      "source": "MED",
+      "title": "Identification of host proteins required for HIV infection through a functional genomic screen.",
+      "year": 2008,
+      "authors": "Brass AL, Dykxhoorn DM, Benita Y, Yan N, Engelman A, Xavier RJ, Lieberman J, Elledge SJ.",
+      "citationsCount": 103.0
+    }
+  ],
+  "topAuthors": [
+    { "name": "BRUCE D WALKER", "paperCount": 31.0 },
+    { "name": "FRANK KIRCHHOFF", "paperCount": 26.0 },
+    { "name": "BEN BERKHOUT", "paperCount": 19.0 },
+    { "name": "MARIANO ESTEBAN", "paperCount": 17.0 },
+    { "name": "OLIVER T FACKLER", "paperCount": 16.0 }
+  ],
+  "topTerms": [
+    {
+      "label": "disease",
+      "link": "http://purl.obolibrary.org/obo/DOID_4",
+      "usedByCount": 883.0
+    },
+    {
+      "label": "acquired immunodeficiency syndrome",
+      "link": "http://purl.obolibrary.org/obo/DOID_635",
+      "usedByCount": 859.0
+    },
+    {
+      "label": "human immunodeficiency virus infectious disease",
+      "link": "http://purl.obolibrary.org/obo/DOID_526",
+      "usedByCount": 819.0
+    },
+    {
+      "label": "viral infectious disease",
+      "link": "http://purl.obolibrary.org/obo/DOID_934",
+      "usedByCount": 754.0
+    },
+    {
+      "label": "syndrome",
+      "link": "http://purl.obolibrary.org/obo/DOID_225",
+      "usedByCount": 443.0
+    }
+  ]
+}

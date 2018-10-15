@@ -1,0 +1,796 @@
+{
+  "labels": [
+    "2010-06",
+    "2011-05",
+    "2011-10",
+    "2012-02",
+    "2012-03",
+    "2012-04",
+    "2012-05",
+    "2012-06",
+    "2012-07",
+    "2012-08",
+    "2012-09",
+    "2012-10",
+    "2013-02",
+    "2013-03",
+    "2013-04",
+    "2013-05",
+    "2013-06",
+    "2013-07",
+    "2013-08",
+    "2013-09",
+    "2013-10",
+    "2013-11",
+    "2013-12",
+    "2014-01",
+    "2014-02",
+    "2014-03",
+    "2014-04",
+    "2014-05",
+    "2014-06",
+    "2014-07",
+    "2014-08",
+    "2014-09",
+    "2014-10",
+    "2014-11",
+    "2014-12",
+    "2015-01",
+    "2015-02",
+    "2015-03",
+    "2015-04",
+    "2015-05",
+    "2015-06",
+    "2015-07",
+    "2015-08",
+    "2015-09",
+    "2015-10",
+    "2015-11",
+    "2015-12",
+    "2016-01",
+    "2016-02",
+    "2016-03",
+    "2016-04",
+    "2016-05",
+    "2016-06",
+    "2016-07",
+    "2016-08",
+    "2016-09",
+    "2016-10",
+    "2016-11",
+    "2016-12",
+    "2017-01",
+    "2017-02",
+    "2017-03",
+    "2017-04",
+    "2017-05",
+    "2017-06",
+    "2017-07",
+    "2017-08",
+    "2017-09",
+    "2017-10",
+    "2017-11",
+    "2017-12"
+  ],
+  "bursts": [
+    {
+      "begin": 50,
+      "end": 58,
+      "label": "ZIKA VIRUS DISEASE",
+      "weight": 0.22850493942427821
+    },
+    {
+      "begin": 65,
+      "end": 68,
+      "label": "SURGERY",
+      "weight": 0.1012596226355747
+    },
+    { "begin": 49, "end": 54, "label": "MILD", "weight": 0.4339316036800882 },
+    {
+      "begin": 48,
+      "end": 56,
+      "label": "ERUPTION",
+      "weight": 0.7996778882569142
+    },
+    { "begin": 48, "end": 54, "label": "BRAZIL", "weight": 0.6946147559926646 },
+    { "begin": 47, "end": 54, "label": "FEVER", "weight": 0.5373167503963008 },
+    { "begin": 27, "end": 34, "label": "VIRUS", "weight": 0.17393324721818987 },
+    {
+      "begin": 68,
+      "end": 68,
+      "label": "ADDRESS",
+      "weight": 0.009955902275600077
+    },
+    {
+      "begin": 53,
+      "end": 56,
+      "label": "SALIVA",
+      "weight": 0.13224657581129728
+    },
+    {
+      "begin": 48,
+      "end": 56,
+      "label": "CUTANEOUS ERUPTION",
+      "weight": 0.791282041439989
+    },
+    {
+      "begin": 48,
+      "end": 58,
+      "label": "CONJUNCTIVITIS",
+      "weight": 0.7659574318542817
+    },
+    {
+      "begin": 48,
+      "end": 48,
+      "label": "VECTORS",
+      "weight": 0.00043558832538676125
+    },
+    {
+      "begin": 48,
+      "end": 53,
+      "label": "AEDES AEGYPTI",
+      "weight": 0.17638118110541798
+    },
+    {
+      "begin": 51,
+      "end": 56,
+      "label": "SEROLOGIC",
+      "weight": 0.1658949195468628
+    },
+    {
+      "begin": 68,
+      "end": 68,
+      "label": "PHARMACOLOGIC",
+      "weight": 0.009027639658101501
+    },
+    {
+      "begin": 55,
+      "end": 57,
+      "label": "PUERTO RICO",
+      "weight": 0.040267353986283234
+    },
+    {
+      "begin": 65,
+      "end": 66,
+      "label": "ABSOLUTE",
+      "weight": 0.028193809810323864
+    },
+    {
+      "begin": 67,
+      "end": 68,
+      "label": "FOLLOW-UP STATUS",
+      "weight": 0.06808811542813951
+    },
+    { "begin": 65, "end": 68, "label": "GENDER", "weight": 0.1322585976865584 },
+    {
+      "begin": 65,
+      "end": 68,
+      "label": "COLLEGE",
+      "weight": 0.21867701458175184
+    },
+    {
+      "begin": 65,
+      "end": 67,
+      "label": "INTERPRETATION",
+      "weight": 0.026367683035007843
+    },
+    {
+      "begin": 48,
+      "end": 57,
+      "label": "FEDERATED STATES OF MICRONESIA",
+      "weight": 0.397161348163623
+    },
+    {
+      "begin": 49,
+      "end": 57,
+      "label": "SEXUAL TRANSMISSION",
+      "weight": 0.5440618332247681
+    },
+    {
+      "begin": 27,
+      "end": 31,
+      "label": "ANTIBODY",
+      "weight": 0.0368622258860321
+    },
+    { "begin": 47, "end": 51, "label": "ASIA", "weight": 0.1665361846322612 },
+    {
+      "begin": 49,
+      "end": 56,
+      "label": "SUSPECTED",
+      "weight": 0.2964783494102672
+    },
+    { "begin": 47, "end": 57, "label": "FRENCH", "weight": 0.9617777403343045 },
+    {
+      "begin": 51,
+      "end": 55,
+      "label": "SPORADIC",
+      "weight": 0.0688524245370625
+    },
+    {
+      "begin": 48,
+      "end": 56,
+      "label": "ISLAND",
+      "weight": 0.45923221697876904
+    },
+    {
+      "begin": 54,
+      "end": 57,
+      "label": "CIRCULATING",
+      "weight": 0.10514789239647925
+    },
+    {
+      "begin": 55,
+      "end": 56,
+      "label": "DENGUE HEMORRHAGIC FEVER",
+      "weight": 0.0385418368017079
+    },
+    {
+      "begin": 49,
+      "end": 56,
+      "label": "PREGNANCY",
+      "weight": 0.3923976255861878
+    },
+    { "begin": 47, "end": 53, "label": "AEDES", "weight": 0.36995973348269456 },
+    {
+      "begin": 65,
+      "end": 68,
+      "label": "REGRESSION - MENTAL DEFENSE MECHANISM",
+      "weight": 0.2589591142397602
+    },
+    {
+      "begin": 65,
+      "end": 68,
+      "label": "CLINIC",
+      "weight": 0.11507414247209469
+    },
+    {
+      "begin": 48,
+      "end": 56,
+      "label": "ARBOVIRUS",
+      "weight": 0.4478389811939222
+    },
+    {
+      "begin": 48,
+      "end": 53,
+      "label": "SPREAD",
+      "weight": 0.36003237998707144
+    },
+    {
+      "begin": 68,
+      "end": 68,
+      "label": "PNEUMONIA",
+      "weight": 0.009365809797743294
+    },
+    {
+      "begin": 48,
+      "end": 56,
+      "label": "TRANSMITTED BY",
+      "weight": 0.41151871351303404
+    },
+    { "begin": 47, "end": 52, "label": "DENGUE", "weight": 0.2702851824909288 },
+    {
+      "begin": 47,
+      "end": 56,
+      "label": "CHIKUNGUNYA VIRUS",
+      "weight": 0.32754994249521874
+    },
+    { "begin": 48, "end": 56, "label": "BAHIA", "weight": 0.3511491870951692 },
+    {
+      "begin": 67,
+      "end": 68,
+      "label": "RECRUITMENT",
+      "weight": 0.05575464501866005
+    },
+    {
+      "begin": 50,
+      "end": 53,
+      "label": "ILLNESS",
+      "weight": 0.12448877088785378
+    },
+    {
+      "begin": 27,
+      "end": 36,
+      "label": "ASSAY TECHNIQUE",
+      "weight": 0.09199665362457678
+    },
+    {
+      "begin": 51,
+      "end": 55,
+      "label": "CONGENITAL",
+      "weight": 0.37585461827315375
+    },
+    {
+      "begin": 48,
+      "end": 58,
+      "label": "AMNIOTIC FLUID",
+      "weight": 0.5628006473562025
+    },
+    {
+      "begin": 51,
+      "end": 58,
+      "label": "GUILLAIN-BARRÃ© SYNDROME",
+      "weight": 0.1341150236321745
+    },
+    { "begin": 50, "end": 55, "label": "RIO", "weight": 0.23223307793319167 },
+    {
+      "begin": 65,
+      "end": 68,
+      "label": "CHILDHOOD",
+      "weight": 0.232895231493365
+    },
+    {
+      "begin": 67,
+      "end": 68,
+      "label": "PREVENTIVE INTENT",
+      "weight": 0.0653350083400592
+    },
+    {
+      "begin": 51,
+      "end": 55,
+      "label": "NEWBORN",
+      "weight": 0.10614658612609654
+    },
+    {
+      "begin": 50,
+      "end": 55,
+      "label": "STRUCTURE OF NERVOUS SYSTEM",
+      "weight": 0.15214802865949356
+    },
+    {
+      "begin": 50,
+      "end": 56,
+      "label": "CIRCUMFERENCE",
+      "weight": 0.13237002712231327
+    },
+    { "begin": 55, "end": 58, "label": "RARE", "weight": 0.052710809356820626 },
+    { "begin": 50, "end": 56, "label": "RUBELLA", "weight": 0.28045205501164 },
+    {
+      "begin": 48,
+      "end": 55,
+      "label": "MACULOPAPULAR RASH",
+      "weight": 0.4409391620098279
+    },
+    {
+      "begin": 54,
+      "end": 56,
+      "label": "COLOMBIA",
+      "weight": 0.06693025209775738
+    },
+    {
+      "begin": 48,
+      "end": 55,
+      "label": "MACULOPAPULAR ERUPTION",
+      "weight": 0.4373131283730812
+    },
+    {
+      "begin": 51,
+      "end": 55,
+      "label": "ONSET OF",
+      "weight": 0.10887079969302375
+    },
+    {
+      "begin": 50,
+      "end": 55,
+      "label": "INCUBATION PERIOD",
+      "weight": 0.13771726067478313
+    },
+    {
+      "begin": 53,
+      "end": 55,
+      "label": "BIRTH",
+      "weight": 0.057803013952164195
+    },
+    {
+      "begin": 54,
+      "end": 58,
+      "label": "MOTHER",
+      "weight": 0.08547970784072355
+    },
+    { "begin": 53, "end": 56, "label": "URINE", "weight": 0.09243389244742911 },
+    {
+      "begin": 48,
+      "end": 55,
+      "label": "MACULOPAPULAR",
+      "weight": 0.46676572382369824
+    },
+    {
+      "begin": 65,
+      "end": 68,
+      "label": "RISK FACTOR",
+      "weight": 0.18018559031797649
+    },
+    {
+      "begin": 49,
+      "end": 56,
+      "label": "YELLOW",
+      "weight": 0.31514417170443665
+    },
+    {
+      "begin": 49,
+      "end": 56,
+      "label": "YELLOW FEVER",
+      "weight": 0.39168995608053536
+    },
+    {
+      "begin": 51,
+      "end": 56,
+      "label": "JAPANESE",
+      "weight": 0.1327765780481372
+    },
+    {
+      "begin": 48,
+      "end": 55,
+      "label": "FLAVIVIRUS",
+      "weight": 0.3603657451848923
+    },
+    {
+      "begin": 63,
+      "end": 68,
+      "label": "DISABILITY",
+      "weight": 0.5288877820694392
+    },
+    {
+      "begin": 50,
+      "end": 57,
+      "label": "FIRST TRIMESTER",
+      "weight": 0.2885524615335982
+    },
+    {
+      "begin": 54,
+      "end": 55,
+      "label": "BRAIN STRUCTURE",
+      "weight": 0.04130950821708099
+    },
+    {
+      "begin": 49,
+      "end": 55,
+      "label": "UGANDA",
+      "weight": 0.38795424551166774
+    },
+    {
+      "begin": 49,
+      "end": 56,
+      "label": "PREGNANT",
+      "weight": 0.6357148640489848
+    },
+    { "begin": 50, "end": 56, "label": "FLUID", "weight": 0.37175860664461224 },
+    {
+      "begin": 65,
+      "end": 65,
+      "label": "INTERVAL",
+      "weight": 0.014469062374914627
+    },
+    { "begin": 27, "end": 36, "label": "ACID", "weight": 0.09722176572837506 },
+    { "begin": 49, "end": 56, "label": "FOREST", "weight": 0.3759990253803348 },
+    {
+      "begin": 54,
+      "end": 56,
+      "label": "POLYMERASE CHAIN REACTION",
+      "weight": 0.08775755458481205
+    },
+    { "begin": 50, "end": 56, "label": "MONKEY", "weight": 0.2933288887973026 },
+    {
+      "begin": 49,
+      "end": 57,
+      "label": "TRAVEL",
+      "weight": 0.24742794461767614
+    },
+    {
+      "begin": 49,
+      "end": 57,
+      "label": "TRANSFUSION",
+      "weight": 0.37300507349803663
+    },
+    {
+      "begin": 50,
+      "end": 57,
+      "label": "TRANSFUSION - ACTION",
+      "weight": 0.26488294779848104
+    },
+    {
+      "begin": 50,
+      "end": 55,
+      "label": "ASYMPTOMATIC",
+      "weight": 0.14047320101530372
+    },
+    {
+      "begin": 50,
+      "end": 58,
+      "label": "EMERGENCY",
+      "weight": 0.3327828643358523
+    },
+    {
+      "begin": 50,
+      "end": 58,
+      "label": "INTRAUTERINE",
+      "weight": 0.33395742696508196
+    },
+    {
+      "begin": 67,
+      "end": 68,
+      "label": "TROPICAL MEDICINE",
+      "weight": 0.025856742462747412
+    },
+    {
+      "begin": 48,
+      "end": 55,
+      "label": "HEADACHE",
+      "weight": 0.22633779512678673
+    },
+    { "begin": 67, "end": 68, "label": "WALES", "weight": 0.05140826691752312 },
+    {
+      "begin": 67,
+      "end": 68,
+      "label": "ENGLAND",
+      "weight": 0.07796571303512319
+    },
+    {
+      "begin": 65,
+      "end": 68,
+      "label": "GLUCOSE",
+      "weight": 0.1189276154842422
+    },
+    {
+      "begin": 68,
+      "end": 68,
+      "label": "GENERAL METABOLIC FUNCTION",
+      "weight": 0.011239252826498038
+    },
+    {
+      "begin": 48,
+      "end": 56,
+      "label": "NEW CALEDONIA",
+      "weight": 0.39431423173478514
+    },
+    {
+      "begin": 68,
+      "end": 68,
+      "label": "SCORE",
+      "weight": 0.017959355609298528
+    },
+    {
+      "begin": 68,
+      "end": 68,
+      "label": "STRESS",
+      "weight": 0.027027857080494124
+    },
+    {
+      "begin": 68,
+      "end": 68,
+      "label": "RECURRENT",
+      "weight": 0.014952081354730213
+    },
+    {
+      "begin": 64,
+      "end": 68,
+      "label": "CHRONIC",
+      "weight": 0.2110282084295628
+    },
+    {
+      "begin": 65,
+      "end": 68,
+      "label": "BLOOD PRESSURE",
+      "weight": 0.1700430172067229
+    },
+    {
+      "begin": 65,
+      "end": 68,
+      "label": "REGIONAL",
+      "weight": 0.30235589290742354
+    },
+    {
+      "begin": 65,
+      "end": 68,
+      "label": "ADJUSTMENT",
+      "weight": 0.16753240618307405
+    },
+    {
+      "begin": 64,
+      "end": 68,
+      "label": "CAUSE OF DEATH",
+      "weight": 0.2653736886689097
+    },
+    {
+      "begin": 65,
+      "end": 68,
+      "label": "HEART DISEASE",
+      "weight": 0.10483909360488147
+    },
+    {
+      "begin": 68,
+      "end": 68,
+      "label": "EDUCATION",
+      "weight": 0.03599396604049277
+    },
+    {
+      "begin": 68,
+      "end": 68,
+      "label": "DETAILS OF EDUCATION",
+      "weight": 0.03599396604049277
+    },
+    {
+      "begin": 53,
+      "end": 57,
+      "label": "OCULAR",
+      "weight": 0.07878538789839108
+    },
+    {
+      "begin": 53,
+      "end": 57,
+      "label": "RNA VIRUS",
+      "weight": 0.1323684602220044
+    },
+    {
+      "begin": 53,
+      "end": 57,
+      "label": "MALAISE",
+      "weight": 0.07653218246951074
+    },
+    {
+      "begin": 65,
+      "end": 68,
+      "label": "ALCOHOL",
+      "weight": 0.10001179992506627
+    },
+    {
+      "begin": 68,
+      "end": 68,
+      "label": "QUALITY",
+      "weight": 0.009192677639756426
+    },
+    { "begin": 49, "end": 56, "label": "COOK", "weight": 0.23553663618839757 },
+    {
+      "begin": 49,
+      "end": 56,
+      "label": "SOUTH AMERICA",
+      "weight": 0.30934996278455384
+    },
+    { "begin": 52, "end": 56, "label": "BITE", "weight": 0.14659038081533216 },
+    {
+      "begin": 68,
+      "end": 68,
+      "label": "IMPAIRED",
+      "weight": 0.009747509241212638
+    },
+    {
+      "begin": 65,
+      "end": 68,
+      "label": "SUBSTANCE",
+      "weight": 0.06324330433711588
+    },
+    {
+      "begin": 53,
+      "end": 56,
+      "label": "ATROPHY",
+      "weight": 0.06729812993318039
+    },
+    {
+      "begin": 65,
+      "end": 68,
+      "label": "PROMOTION",
+      "weight": 0.07287642846764897
+    },
+    {
+      "begin": 65,
+      "end": 68,
+      "label": "NUTRITION",
+      "weight": 0.1725453444205741
+    },
+    {
+      "begin": 68,
+      "end": 68,
+      "label": "BANGLADESH",
+      "weight": 0.009527704683087305
+    },
+    { "begin": 68, "end": 68, "label": "PREVENTABLE", "weight": 0.0 },
+    {
+      "begin": 68,
+      "end": 68,
+      "label": "TUBERCULOSIS",
+      "weight": 0.010654032555645405
+    },
+    {
+      "begin": 68,
+      "end": 68,
+      "label": "OBJECTIVE",
+      "weight": 0.019516165191295412
+    },
+    {
+      "begin": 67,
+      "end": 68,
+      "label": "PSYCHOLOGIC",
+      "weight": 0.058891129462334914
+    },
+    {
+      "begin": 65,
+      "end": 68,
+      "label": "SECTIONAL",
+      "weight": 0.17490942001884557
+    },
+    {
+      "begin": 68,
+      "end": 68,
+      "label": "LONGITUDINAL",
+      "weight": 0.01676930104644498
+    },
+    {
+      "begin": 64,
+      "end": 66,
+      "label": "WASHINGTON",
+      "weight": 0.06778008451504658
+    },
+    {
+      "begin": 66,
+      "end": 68,
+      "label": "AGE GROUP",
+      "weight": 0.12915012026644285
+    },
+    {
+      "begin": 65,
+      "end": 68,
+      "label": "STRATIFIED",
+      "weight": 0.1562135386340295
+    },
+    {
+      "begin": 68,
+      "end": 68,
+      "label": "BELGIUM",
+      "weight": 0.006667488126759487
+    },
+    { "begin": 68, "end": 68, "label": "FOOD", "weight": 0.03285006950176772 },
+    {
+      "begin": 65,
+      "end": 68,
+      "label": "ELECTRONIC",
+      "weight": 0.2632961032920615
+    },
+    {
+      "begin": 65,
+      "end": 68,
+      "label": "TOBACCO",
+      "weight": 0.1036252835542068
+    },
+    {
+      "begin": 66,
+      "end": 68,
+      "label": "ANXIETY",
+      "weight": 0.07811026151666713
+    },
+    {
+      "begin": 68,
+      "end": 68,
+      "label": "INTERLEUKIN",
+      "weight": 0.002023989922259423
+    },
+    {
+      "begin": 65,
+      "end": 68,
+      "label": "OBESITY",
+      "weight": 0.16228528916591975
+    },
+    {
+      "begin": 64,
+      "end": 68,
+      "label": "OCCUPATIONAL",
+      "weight": 0.09183782457614453
+    },
+    {
+      "begin": 65,
+      "end": 68,
+      "label": "SELF-REPORTED",
+      "weight": 0.07160341566292397
+    },
+    {
+      "begin": 68,
+      "end": 68,
+      "label": "DRINKING",
+      "weight": 0.008761458816318454
+    },
+    {
+      "begin": 68,
+      "end": 68,
+      "label": "HIGH RISK OF",
+      "weight": 0.004366429446089214
+    }
+  ]
+}
