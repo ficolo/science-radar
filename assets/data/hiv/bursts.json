@@ -187,7 +187,6 @@
       "end": 34,
       "label": "INSTANCE",
       "weight": 0.36085176806273317
-    },
-    { "begin": 86, "end": 87, "label": "TREATMENT REGIMEN", "weight": 0.0 }
+    }
   ]
 }

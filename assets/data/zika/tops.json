@@ -6,15 +6,15 @@
       "title": "Zika virus outbreak on Yap Island, Federated States of Micronesia.",
       "year": 2009,
       "authors": "Duffy MR, Chen TH, Hancock WT, Powers AM, Kool JL, Lanciotti RS, Pretrick M, Marfel M, Holzbauer S, Dubray C, Guillaumot L, Griggs A, Bel M, Lambert AJ, Laven J, Kosoy O, Panella A, Biggerstaff BJ, Fischer M, Hayes EB.",
-      "citationsCount": 541.0
+      "citationsCount": 290.0
     },
     {
-      "id": "12995440",
+      "id": "23563266",
       "source": "MED",
-      "title": "Zika virus.  I.  Isolations and serological specificity.",
-      "year": 1952,
-      "authors": "DICK GW, KITCHEN SF, HADDOW AJ.",
-      "citationsCount": 451.0
+      "title": "The global distribution and burden of dengue.",
+      "year": 2013,
+      "authors": "Bhatt S, Gething PW, Brady OJ, Messina JP, Farlow AW, Moyes CL, Drake JM, Brownstein JS, Hoen AG, Sankoh O, Myers MF, George DB, Jaenisch T, Wint GR, Simmons CP, Scott TW, Farrar JJ, Hay SI.",
+      "citationsCount": 264.0
     },
     {
       "id": "18680646",
@@ -22,15 +22,15 @@
       "title": "Genetic and serologic properties of Zika virus associated with an epidemic, Yap State, Micronesia, 2007.",
       "year": 2008,
       "authors": "Lanciotti RS, Kosoy OL, Laven JJ, Velez JO, Lambert AJ, Johnson AJ, Stanfield SM, Duffy MR.",
-      "citationsCount": 432.0
+      "citationsCount": 233.0
     },
     {
-      "id": "26862926",
+      "id": "12995440",
       "source": "MED",
-      "title": "Zika Virus Associated with Microcephaly.",
-      "year": 2016,
-      "authors": "Mlakar J, Korva M, Tul N, Popovic M, Poljsak-Prijatelj M, Mraz J, Kolenc M, Resman Rus K, Vesnaver Vipotnik T, Fabjan Vodusek V, Vizjak A, Pizem J, Petrovec M, Avsic Zupanc T.",
-      "citationsCount": 390.0
+      "title": "Zika virus.  I.  Isolations and serological specificity.",
+      "year": 1952,
+      "authors": "DICK GW, KITCHEN SF, HADDOW AJ.",
+      "citationsCount": 230.0
     },
     {
       "id": "27733281",
@@ -38,26 +38,31 @@
       "title": "Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980-2015: a systematic analysis for the Global Burden of Disease Study 2015.",
       "year": 2016,
       "authors": "I",
-      "citationsCount": 387.0
+      "citationsCount": 198.0
     }
   ],
   "topAuthors": [
-    { "name": "SCOTT C WEAVER", "paperCount": 36.0 },
-    { "name": "MICHAEL S DIAMOND", "paperCount": 32.0 },
-    { "name": "NIKOS VASILAKIS", "paperCount": 26.0 },
-    { "name": "DIDIER MUSSO", "paperCount": 25.0 },
-    { "name": "CHENG-FENG QIN", "paperCount": 23.0 }
+    { "name": "SCOTT C WEAVER", "paperCount": 25.0 },
+    { "name": "PETER J HOTEZ", "paperCount": 19.0 },
+    { "name": "OUSMANE FAYE", "paperCount": 18.0 },
+    { "name": "VAN-MAI CAO-LORMEAU", "paperCount": 17.0 },
+    { "name": "XAVIER DE LAMBALLERIE", "paperCount": 17.0 }
   ],
   "topTerms": [
     {
       "label": "disease",
       "link": "http://purl.obolibrary.org/obo/DOID_4",
-      "usedByCount": 2179.0
+      "usedByCount": 2535.0
     },
     {
       "label": "viral infectious disease",
       "link": "http://purl.obolibrary.org/obo/DOID_934",
-      "usedByCount": 1331.0
+      "usedByCount": 1587.0
+    },
+    {
+      "label": "chikungunya",
+      "link": "http://purl.obolibrary.org/obo/DOID_0050012",
+      "usedByCount": 1254.0
     },
     {
       "label": "syndrome",
@@ -65,14 +70,9 @@
       "usedByCount": 1158.0
     },
     {
-      "label": "chikungunya",
-      "link": "http://purl.obolibrary.org/obo/DOID_0050012",
-      "usedByCount": 963.0
-    },
-    {
-      "label": "microcephaly",
-      "link": "http://purl.obolibrary.org/obo/DOID_10907",
-      "usedByCount": 873.0
+      "label": "yellow fever",
+      "link": "http://purl.obolibrary.org/obo/DOID_9682",
+      "usedByCount": 970.0
     }
   ]
 }
