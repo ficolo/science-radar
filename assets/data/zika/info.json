@@ -1,5 +1,6 @@
 {
   "title": "Virus del Zika: Infecciones y prevención",
   "range": "2010-2017",
-  "keywords": ["ZIKA", "ZIKV"]
+  "keywords": ["ZIKA", "ZIKV"],
+  "url": "https://europepmc.org/search?query=%28%28%22ZIKA%22+OR+%22ZIKV%22%29+AND+%28SRC:%22MED%22%29+AND+%28FIRST_PDATE:%5B2010-01-01+TO+2017-12-31%5D%29%29+AND+OPEN_ACCESS:Y&page=1&sortby=Date%2BDESC"
 }
